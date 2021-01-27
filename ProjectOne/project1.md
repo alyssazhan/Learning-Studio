@@ -1,4 +1,4 @@
-##Learning Python
+## Learning Python
 Learning Python from Leetcode. The problems include array, string, linkedlist, math and stack. 
 
 ### Jan 27
