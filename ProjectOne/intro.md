@@ -1,7 +1,7 @@
-##Learning Python
+## Learning Python
 Learning Python from Leetcode. The problems include array, string, linkedlist, math and stack. 
 
-### Jan 27
+### [Jan 27](../Jan27)
 - [X] 91. Decode Ways
 - [ ] 146. LRU Cache    
 - [ ]	42. Trapping Rain Water   
