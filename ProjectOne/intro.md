@@ -1,5 +1,5 @@
 ## Learning Python
-Learning Python from Leetcode. The problems include array, string, linkedlist, math and stack. 
+Learning Python from [Leetcode](https://leetcode.com/problemset/all/). The problems include array, string, linkedlist, math and stack. 
 
 ### [Jan 27](./Jan27)
 - [X] 91. Decode Ways

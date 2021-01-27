@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/decode-ways/
 class Solution(object):
     def numDecodings(self,s):
         if s[0]=='0' or not s:
