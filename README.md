@@ -1,5 +1,3 @@
-# For INF 385T Learning-Studio 
-## Project One-Learning Python
 ## Project One-Python
 - [ ] 91. Decode Ways
 - [ ] 146. LRU Cache    
