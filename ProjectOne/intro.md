@@ -25,3 +25,11 @@ Learning Python from [Leetcode](https://leetcode.com/problemset/all/). The probl
 - 426 Convert Binary Search Tree to Sorted Doubly Linked List
 - 445 Add Two Numbers II    
 - 1290 Convert Binary Number in a Linked List to Integer  
+
+### [Feb 24](./Feb24)
+
+- 270 Closest Binary Search Tree Value    
+- 704 Binary Search       
+- 1011 Capacity To Ship Packages Within D Days    
+- 1150 Check If a Number Is Majority Element in a Sorted Array 
+- 1739 Building Boxes    
