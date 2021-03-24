@@ -19,3 +19,10 @@ There are two ways to complete this tutorial: write the code in the browser, or 
   
 Here's the code: [https://codepen.io/ali_zhan/pen/yLVGNMR](https://codepen.io/ali_zhan/pen/yLVGNMR)
 
+### Mar 24
+
+- Inspecting the Starter Code
+- Passing Data Through Props. I’ve “passed a prop” from a parent Board component to a child Square component.
+- Making an Interactive Component. I filled the Square component with an “X” when we click it.
+
+Here's the code: [https://codepen.io/ali_zhan/pen/ExZVxyx](https://codepen.io/ali_zhan/pen/ExZVxyx)
