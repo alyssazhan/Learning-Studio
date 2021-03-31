@@ -32,9 +32,7 @@ Here's the code: [https://codepen.io/ali_zhan/pen/ExZVxyx](https://codepen.io/al
 Completing the Game
 
 - Lifting State Up. Now the state is stored in the Board component instead of the individual Square components. When the Board’s state changes, the Square components re-render automatically.
-  
 - Function Components. It's a simpler way to write components that only contain a render method and don’t have their own state.
-  
 - Declaring a Winner. I added helper function to show when the game is won and there are no more turns to make.
 
 Here's the code: [https://codepen.io/ali_zhan/pen/BappdLK](https://codepen.io/ali_zhan/pen/BappdLK)
