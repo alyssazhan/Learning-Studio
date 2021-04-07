@@ -45,3 +45,5 @@ Adding Time Travel
 - Lifting State Up, Again. I had the Board component receive squares and onClick props from the Game component.
 - Picking a Key. Key is a special and reserved property in React.
 - Implementing Time Travel. If player clicks on any step in the game’s history, the tic-tac-toe board should immediately update to show what the board looked like after that step occurred.
+
+Here's the code: [https://codepen.io/ali_zhan/pen/YzNreBb](https://codepen.io/ali_zhan/pen/YzNreBb)
