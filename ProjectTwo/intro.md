@@ -36,3 +36,12 @@ Completing the Game
 - Declaring a Winner. I added helper function to show when the game is won and there are no more turns to make.
 
 Here's the code: [https://codepen.io/ali_zhan/pen/BappdLK](https://codepen.io/ali_zhan/pen/BappdLK)
+
+### Apr 7
+
+Adding Time Travel
+
+- Storing a History of Moves. I stored the past squares arrays in another array called history. The history array represents all board states, from the first to the last move,
+- Lifting State Up, Again. I had the Board component receive squares and onClick props from the Game component.
+- Picking a Key. Key is a special and reserved property in React.
+- Implementing Time Travel. If player clicks on any step in the game’s history, the tic-tac-toe board should immediately update to show what the board looked like after that step occurred.
