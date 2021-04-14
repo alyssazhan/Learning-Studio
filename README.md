@@ -2,3 +2,5 @@
 
 ## Project Two: [React](./ProjectTwo/intro.md)
 
+## Project Three: [Javascript](./ProjectThree/intro.md)
+
