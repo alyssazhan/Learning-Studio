@@ -11,3 +11,8 @@ After project two, I find the basics is very import. Also, the language has cont
 
 - Learn about JavaScript function syntax, passing data to functions, the return keyword, ES6 arrow functions, and concise body syntax.
 - Learn about global and block level scope in JavaScript and how it impacts the accessibility of different variables.
+
+### April 28
+
+- Learn how to work with and manipulate arrays. Even when declared with const, arrays are still mutable. However, a variable declared with const cannot be reassigned.
+- Learn how to write cleaner code with loops. Loops perform repetitive actions, so we don’t have to code that process manually every time. Stopping conditions are crucial for avoiding infinite loops.
