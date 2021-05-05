@@ -16,3 +16,8 @@ After project two, I find the basics is very import. Also, the language has cont
 
 - Learn how to work with and manipulate arrays. Even when declared with const, arrays are still mutable. However, a variable declared with const cannot be reassigned.
 - Learn how to write cleaner code with loops. Loops perform repetitive actions, so we don’t have to code that process manually every time. Stopping conditions are crucial for avoiding infinite loops.
+
+### May 5
+
+- Learn about higher-order function, which is a function that either accepts functions as parameters, returns a function, or both.
+- Learn a number of useful methods as well as how to use the JavaScript documentation from the Mozilla Developer Network to discover and understand additional methods.
